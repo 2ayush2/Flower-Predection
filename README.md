@@ -9,10 +9,10 @@
 Model Deployment using streamlit
 
 <br>
-<h2>Quick Look of the project image: </h2>
 <img src="final-photo.png" height=500 width=889/>
 
-<h1>Requirements</h2>
+<h2>Requirements</h2>
+<br>
 1 - <code>pip install streamlit</code><br>
 2 - <code>pip install numpy</code><br>
 3 - <code>pip install keras</code><br>
