@@ -6,7 +6,7 @@
 
 <br>
 
-Model Deployment using streamlit
+Flower Predection Web App
 
 <br>
 <img src="final-photo.png" height=500 width=889/>
