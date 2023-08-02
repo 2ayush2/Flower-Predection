@@ -1,9 +1,16 @@
-<h1>Streamlit Model Deploy</h1>
+<h1>This is our first team project done together by:</h1>
+<p>Ayush Khadka</p>
+<p>Sushant Phuyal</p>
+<p>Ashim Pandey</p>
+<p>Sunil Phal Magar</p>
+
+<br>
+
 Model Deployment using streamlit
 
 <br>
-<h2>Quick Look</h2>
-<img src="model_deploy.png" height=500 width=889/>
+<h2>Quick Look of the project image: </h2>
+<img src="final-photo.png" height=500 width=889/>
 
 <h1>Requirements</h2>
 1 - <code>pip install streamlit</code><br>

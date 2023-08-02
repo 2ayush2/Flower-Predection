@@ -5,6 +5,13 @@ import numpy as np
 model = load_model("model.h5")
 labels = np.load("labels.npy") 
 
+# Read the content of the CSS file
+with open("style.css", "r") as f:
+    css_code = f.read()
+
+# Title and input fields
+st.markdown(f'<style>{css_code}</style>', unsafe_allow_html=True)
+
 st.title("Welcome to flower prediction app")
 
 a = float(st.number_input("sepal length in cm"))
